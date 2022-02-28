@@ -11,7 +11,8 @@ This is a sample repository, used as an example for formatting used in ReadME.md
 An explanation of how to run the program
 
 <h2>Files Used</h2>
-This sample only uses one file <br>
+This sample only uses one file, others would use more 
+<br>
 ![gitmeme_2](https://user-images.githubusercontent.com/100540577/155906012-b4ad1f2f-952d-4598-9d57-05ef4a97b53d.jpg)
 
 
