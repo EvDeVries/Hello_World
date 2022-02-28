@@ -11,10 +11,16 @@ This is a sample repository, used as an example for formatting used in ReadME.md
 An explanation of how to run the program
 
 <h2>Files Used</h2>
-This sample does not include any files
+This sample only uses one file <br>
+![gitmeme_2](https://user-images.githubusercontent.com/100540577/155906012-b4ad1f2f-952d-4598-9d57-05ef4a97b53d.jpg)
+
 
 <h2>Additional Documentation</h2>
 Nothing here at the moment
 
 <h2>Versioning</h2>
 No versioning included
+<br>
+</br>
+
+![gitmeme_2](https://user-images.githubusercontent.com/100540577/155906012-b4ad1f2f-952d-4598-9d57-05ef4a97b53d.jpg)
