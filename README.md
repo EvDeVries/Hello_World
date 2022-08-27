@@ -1,5 +1,5 @@
 # Hello_World
-I am currently a second-year student at the <strong>University of Iowa</strong> working on my BBA in Business Analytics and Information Systems.
+I am currently a third-year student at the <strong>University of Iowa</strong> working on my BBA in Business Analytics and Information Systems.
 
 <h2>Project Title</h2>
 <em>Sample repository</em>; The name of the project
